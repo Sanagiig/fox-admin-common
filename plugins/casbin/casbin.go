@@ -16,7 +16,7 @@ package casbin
 
 import (
 	"fmt"
-	"github.com/suyuan32/simple-admin-common/config"
+	"github.com/Sanagiig/fox-admin-common/config"
 	"log"
 
 	"github.com/casbin/casbin/v2"
